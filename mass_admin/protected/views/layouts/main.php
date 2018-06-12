@@ -73,7 +73,7 @@ document.onmousedown = right;
 	<div class="clear"></div>
 
 	<div id="footer">
-		Copyright &copy; <?php echo date('Y'); ?> by Mass Productos y Servicos.<br/>
+		Copyright &copy; <?php echo date('Y'); ?>  <br/>
 		Todos los Derechos Recervados.<br/>
 		<?php echo Yii::powered(); ?>
 	</div><!-- footer -->
