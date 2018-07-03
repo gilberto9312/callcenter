@@ -1,2 +1,3 @@
 Requiere yii 1.9
-https://github.com/gilberto9312/foliogram/tree/CALLVENTAS
+App to system Call Center
+https://github.com/gilberto9312/foliogram
